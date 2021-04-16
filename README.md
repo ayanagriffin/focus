@@ -20,7 +20,7 @@
 <br/>
 <br/>
 <p>
-  Try the app out yourself by downloading the <a href="https://expo.io/client" target="_blank">Expo app</a> and scanning the QR code below, or through the <a href="https://snack.expo.io/@ayanagriffin/focus" target="_blank">Expo Snack</a>
+  Try the app out yourself by downloading the <a href="https://expo.io/client" target="_blank">Expo app</a> and scanning the QR code below, or through the <a href="https://snack.expo.io/@ayanagriffin/focus" target="_blank">Expo Snack</a>!
   
 
 </p>
